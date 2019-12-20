@@ -21,7 +21,7 @@ be associated in the database upon creation.
 * MongoDB
 
 ## Language Support
-* PHP >= 5.3
+* PHP >= 7.2
 
 ## Limitations
 * Each table must have a single integer primary key for associations to work.
